@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> <br/>
 # 💫 About Me:
 🔭 I’m currently working on an E-commerce Website<br>🤝 I’m looking for help with Improve my Skills<br>🌱 I’m currently learning NextJS<br>💬 Ask me about ReactJS , Tailwind css , NodeJS , ExpressJS , MongoDB , PostgresSQL<br>⚡ Fun fact I love to do hacking but Don't know How ?
 
